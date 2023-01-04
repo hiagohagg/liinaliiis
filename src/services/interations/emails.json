@@ -1,0 +1,8 @@
+[
+    {
+      "response_type": "emails",
+      "user_input": ["email", "emails"],
+      "bot_response": ["", "sendEmail"],
+      "required_words": []
+    }
+  ]

@@ -1,0 +1,8 @@
+[
+    {
+      "response_type": "search",
+      "user_input": ["busca", "buscar", "pesquisa", "pesquisar"],
+      "bot_response": ["O que deseja saber, senhor?", "search"],
+      "required_words": []
+    }
+]

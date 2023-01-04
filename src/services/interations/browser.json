@@ -1,0 +1,110 @@
+[
+    {
+      "response_type": "browser",
+      "user_input": ["brave", "navegador", "browser"],
+      "bot_response": ["", "openBrave"],
+      "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["google"],
+        "bot_response": ["", "openGoogle"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["bing"],
+        "bot_response": ["", "openBing"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["duckduckgo", "duckgo", "duckduck", "duck"],
+        "bot_response": ["", "openDuckDuckGo"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["wikipedia", "wiki"],
+        "bot_response": ["", "openWikipedia"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["drive", "nuvem"],
+        "bot_response": ["", "openDrive"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["agenda", "calendario", "calendar"],
+        "bot_response": ["", "openCalendar"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["gmail"],
+        "bot_response": ["", "openGmail"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["outlook"],
+        "bot_response": ["", "openOutlook"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["whatsapp", "whats", "zap"],
+        "bot_response": ["", "openWhatsapp"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["telegram"],
+        "bot_response": ["", "openTelegram"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["linkedin"],
+        "bot_response": ["", "openLinkedin"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["twitter"],
+        "bot_response": ["", "openTwitter"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["instagram", "insta"],
+        "bot_response": ["", "openInstagram"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["tiktok"],
+        "bot_response": ["", "openTikTok"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["facebook", "face"],
+        "bot_response": ["", "openFacebook"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["discord"],
+        "bot_response": ["", "openDiscord"],
+        "required_words": []
+    },
+    {
+        "response_type": "browser",
+        "user_input": ["reddit"],
+        "bot_response": ["", "openReddit"],
+        "required_words": []
+    }
+]

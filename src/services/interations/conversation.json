@@ -1,0 +1,14 @@
+[
+  {
+    "response_type": "salutation",
+    "user_input": ["oi", "ola", "ei", "iae", "meu bem"],
+    "bot_response": ["", "salutation"],
+    "required_words": []
+  },
+  {
+    "response_type": "farewell",
+    "user_input": ["tchau", "falou", "ate mais", "adeus"],
+    "bot_response": ["", "farewell"],
+    "required_words": []
+  }
+]

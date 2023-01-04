@@ -1,0 +1,8 @@
+[
+    {
+      "response_type": "project",
+      "user_input": ["projeto", "criar"],
+      "bot_response": ["No que vai trablhar, senhor?", "project"],
+      "required_words": []
+    }
+  ]
